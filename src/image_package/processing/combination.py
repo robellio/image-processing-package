@@ -4,7 +4,7 @@ def blend_images(image1, image2, alpha=0.5):
 
     if image1.size != image2.size:
         raise ValueError("As imagens devem ter o mesmo tamanho")
-    return image.blend(image1, image2, alpha)
+    return Image.blend(image1, image2, alpha)
 
 def merge_channels(red, green, blue):
 
