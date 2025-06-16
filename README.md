@@ -40,4 +40,8 @@
 
 ### importante: o arquivo requirements deve conter as dependências.
 
+### O pacote está disponível no <a href="https://pypi.org/project/image-processing-package-robelio/">Pypi</a> e pode ser instalado via pip: 
+
+### pip install image-processing-package-robelio
+
 ### Autor: Robélio Barreto
