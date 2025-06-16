@@ -3,7 +3,7 @@ requires = ["setuptools>=42", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "image-processing-package"
+name = "image-processing-package-robelio"
 version = "0.1.0"  
 authors = [{name = "Robélio Barreto", email = "robeliobasantos@gmail.com"}]
 description = "Pacote para processamento de imagens"
