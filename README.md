@@ -39,3 +39,5 @@
 ### pip install -r requirements.txt
 
 ### importante: o arquivo requirements deve conter as dependências.
+
+### Autor: Robélio Barreto
